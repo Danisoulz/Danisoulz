@@ -6,9 +6,9 @@
 
 - 🌱 Estou aprendendo **Javascript**
 
-- 📫 Como me contactar **d.danielalsouza@gmail.com**
+- 📫 Conecte-se comigo **d.danielalsouza@gmail.com**
 
-<h3 align="left"> Me contacte:</h3>
+<h3 align="left"> Você pode me encontrar no:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/danisoulza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danisoulza/" height="30" width="40" /></a>
 </p>
