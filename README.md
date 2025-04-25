@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho na **Itsnoon Tecnologia**
 
-- 🌱 Estou aprende00ndo **Automatização de Testes, Javascript, Python**
+- 🌱 Estou aprendendo **Automatização de Testes, Javascript, Python**
 
 - 📫 Conecte-se comigo **d.danielalsouza@gmail.com**
 
