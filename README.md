@@ -15,9 +15,7 @@ Automação de Testes - Appium, Selenium WebDriver, Cypress, Postman, J. Meter, 
 Linguagens de Programação -  JavaScript, Python                  
 
 
-## Formação e Certificações
-
-- Em Formação em Teste e Qualidade de Software – Programa Carreiras em Movimento do Fundo Baobá (2025)
+📚 Em Formação em Teste e Qualidade de Software – Programa Carreiras em Movimento do Fundo Baobá (2025)
 - Mentoria em Testes de Software – Julio de Lima (2025)
 
 ## Contato
