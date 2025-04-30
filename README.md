@@ -1,19 +1,44 @@
-## Olá, sou a Daniela <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# Daniela Souza
 
-<h3 align="center">Sou QA Teste Funcional e estou em uma jornada para Teste Automatizado </h3>
+**Especialista em QA Funcional | Em transição para Automação de Testes**
 
-- 🔭 Atualmente trabalho na **Itsnoon Tecnologia**
+## Perfil Profissional
 
-- 🌱 Estou aprendendo **Automatização de Testes, Javascript, Python**
+Profissional de Garantia de Qualidade com sólida experiência em testes manuais e foco em automação. Perfil analítico, orientada a resultados e comprometida com a entrega de software confiável e seguro.
 
-- 📫 Conecte-se comigo **d.danielalsouza@gmail.com**
+- Planejamento e execução de casos de teste funcionais para aplicações web e mobile.
+- Identificação, documentação e acompanhamento de defeitos em ferramentas de rastreamento.
+- Colaboração com equipes de desenvolvimento e stakeholders para definição de critérios de aceitação.
+- Desenvolvimento de scripts de automação para reduzir retrabalho e aumentar cobertura de testes.
 
-<h3 align="left"> Você pode me encontrar no:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/danisoulza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danisoulza/" height="30" width="40" /></a>
-</p>
+## Competências Técnicas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danisoulz)](https://github.com/Danisoulz/github-readme-stats)
+| Área                    | Ferramentas e Tecnologias           |
+| ----------------------- | ----------------------------------- |
+| Testes Manuais          | JIRA, TestRail, Postman             |
+| Automação de Testes     | Selenium WebDriver, Cypress, Playwright |
+| Linguagens de Programação | JavaScript, Python                  |
+| Integração Contínua     | Jenkins, GitHub Actions             |
+| Controle de Versão      | Git, GitHub                         |
+| Metodologias Ágeis      | Scrum, Kanban                       |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danisoulz)](https://github.com/Danisoulz/github-readme-stats)
+## Experiência Profissional
+
+**Itsnoon Tecnologia**
+*Testadora Funcional* (08/2021 – Presente)
+
+- Elaborar e executar planos de testes funcionais em sistemas corporativos.
+- Registrar, priorizar e monitorar defeitos até a resolução.
+- Gerar relatórios de cobertura e indicadores de qualidade.
+- Participar de reuniões de refinamento e planejamento de sprint.
+
+## Formação e Certificações
+
+- Em Formação em Teste e Qualidade de Software – Programa Carreiras em Movimento do Fundo Baobá (2024)
+- Mentoria em Testes de Sodtware – Julio de Lima (2025)
+
+## Contato
+
+- E-mail: d.danielalsouza@gmail.com
+- LinkedIn: https://www.linkedin.com/in/danisoulza
    
