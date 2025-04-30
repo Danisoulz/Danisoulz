@@ -1,7 +1,7 @@
 # Daniela Souza
 
 **QA Funcional | Em transição para Automação de Testes**  
-Profissional de Garantia de Qualidade com sólida experiência em testes manuais. Perfil analítico, orientada a resultados e comprometida com a entrega de software confiável e seguro.
+Profissional de Garantia de Qualidade com sólida experiência em testes manuais. Perfil analítico, orientada a resultados e comprometida com a entrega de software confiável e seguro.  
 Em Formação: Teste e Qualidade de Software – Programa Carreiras em Movimento do Fundo Baobá (2025) e Mentoria em Testes de Software – Julio de Lima (2025)
 
 - Planejamento e execução de casos de teste funcionais para aplicações web e mobile.
