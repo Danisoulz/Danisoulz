@@ -1,6 +1,6 @@
 # Daniela Souza
 
-**Especialista em QA Funcional | Em transição para Automação de Testes**
+**QA Funcional | Em transição para Automação de Testes**
 
 ## Perfil Profissional
 
