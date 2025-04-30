@@ -11,7 +11,7 @@ Profissional de Garantia de Qualidade com sólida experiência em testes manuais
 ## Competências Técnicas
 
 Testes Manuais - JIRA (workflow de bugs e relatórios)      
-Automação de Testes - Appium, Selenium WebDriver, Cypress, Postman, J. Meter, Robot Framework
+Automação de Testes - Appium, Selenium WebDriver, Cypress, Postman, J. Meter, Robot Framework  
 Linguagens de Programação -  JavaScript, Python                  
 
 
