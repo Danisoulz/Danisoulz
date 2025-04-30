@@ -8,15 +8,14 @@ Profissional de Garantia de Qualidade com sólida experiência em testes manuais
 - Colaboração com equipes de desenvolvimento e stakeholders para definição de critérios de aceitação.
 - Desenvolvimento de scripts de automação para reduzir retrabalho e aumentar cobertura de testes.
 
+  📚 Em Formação em Teste e Qualidade de Software – Programa Carreiras em Movimento do Fundo Baobá (2025)
+- Mentoria em Testes de Software – Julio de Lima (2025)
+
 ## Competências Técnicas
 
 Testes Manuais - JIRA (workflow de bugs e relatórios)      
 Automação de Testes - Appium, Selenium WebDriver, Cypress, Postman, J. Meter, Robot Framework  
 Linguagens de Programação -  JavaScript, Python                  
-
-
-📚 Em Formação em Teste e Qualidade de Software – Programa Carreiras em Movimento do Fundo Baobá (2025)
-- Mentoria em Testes de Software – Julio de Lima (2025)
 
 ## Contato
 
