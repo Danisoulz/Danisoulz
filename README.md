@@ -17,6 +17,6 @@ Linguagens de Programação -  JavaScript, Python
 
 ## Contato
 
-- E-mail: d.danielalsouza@gmail.com
-- LinkedIn: https://www.linkedin.com/in/danisoulza
+📫- E-mail: d.danielalsouza@gmail.com
+- https://www.linkedin.com/in/danisoulza
    
