@@ -35,7 +35,7 @@ Profissional de Garantia de Qualidade com sólida experiência em testes manuais
 ## Formação e Certificações
 
 - Em Formação em Teste e Qualidade de Software – Programa Carreiras em Movimento do Fundo Baobá (2024)
-- Mentoria em Testes de Sodtware – Julio de Lima (2025)
+- Mentoria em Testes de Software – Julio de Lima (2025)
 
 ## Contato
 
