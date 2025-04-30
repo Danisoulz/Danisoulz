@@ -25,7 +25,7 @@ Profissional de Garantia de Qualidade com sólida experiência em testes manuais
 ## Experiência Profissional
 
 **Itsnoon Tecnologia**
-*Testadora Funcional* (08/2021 – Presente)
+*Analista de Teste* (08/2021 – Presente)
 
 - Elaborar e executar planos de testes funcionais em sistemas corporativos.
 - Registrar, priorizar e monitorar defeitos até a resolução.
